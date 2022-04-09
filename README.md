@@ -1,4 +1,4 @@
-# [Italy Covid Data Analysis](https://github.com/NicolaRizzitello/Nicola_Portfolio/blob/main/CoviditaliaAnalysis.sql)
+# [Italy Covid Data Analysis](https://github.com/NicolaRizzitello/Italy-Covid-Analysis/blob/main/CoviditaliaAnalysis.sql)
 This is a project about data covid in Italy per regions, where I did an exploratory analysis with SQL. 
 
 **Language** 
